@@ -50,9 +50,9 @@ ln*f(x)* = ln $\( (x)^{\frac{1}{x}} )\$
 
 L'Hopital's rule gives
 
-$\ \lim_{x \to \infty}$ ln *f(x)* = $\ \lim_{x \to \infty}$ $(\frac{ln x}{x} \)$         $\( \frac{infty}{infty} \)$
+$\ \lim_{x \to \infty}$ ln *f(x)* = $\ \lim_{x \to \infty}$ $(\frac{ln x}{x} \)$                    $\( \frac{infty}{infty} \)$
 
-=$\ \lim_{x \to \infty}$  $(\frac{1/x}{1} \)$
+= $\ \lim_{x \to \infty}$  $(\frac{1/x}{1} \)$
 
 = $(\frac{0}{1} \)$ = 0.
 
@@ -181,7 +181,22 @@ $\ \lim_{x \to \infty}$ $\( (x)^{\frac{1}{x}} )\$ = $\ \lim_{x \to \infty}$ *f(x
  L'Hopital's Rule does not help with the limits in Exercise 53-56. Try
  it--you just keep on cycling. Find the limits some other way.
 
- ## 53. 
+ ## 53. $\ \lim_{x \to \infty}$ $\(\frac{\sqrt{9x + 1}}{\sqrt{x + 1}}\)$
+
+ ## 54. $\ \lim_{x \to 0^+}$ $\(\frac{\sqrt{x}}{\sqrt{sin x}}\)$
+
+ ## 55. $\ \lim_{x \to \left(\frac{\pi}{2}\right)^-} \frac{\sec x}{\tan x} \$
+
+ ## 56. $\ \lim_{x \to 0^+}$ $\( \frac{\cot x}{\csc x} \)$
+
+ ## 57. Which one is correct,and which one is wrong? Give reasons for your answers.
+
+ ## a. $\ \lim_{x \to 3}$ $\( \frac{x - 3}{x^2 - 3} \)$ = $\ \lim_{x \to 3}$ $\( \frac{1}{2x} \)$ = $\(\frac{1}{6}\)$
+
+ ## b. $\ \lim_{x \to 3}$ $\( \frac{x - 3}{x^2 - 3} \)$ = $\(\frac{1}{6}\)$ = 0
+
+ ## 58. Which one is correct,and which one is wrong? Give reasons for your answers.
+
 
 
 
