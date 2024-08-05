@@ -197,6 +197,14 @@ $\ \lim_{x \to \infty}$ $\( (x)^{\frac{1}{x}} )\$ = $\ \lim_{x \to \infty}$ *f(x
 
  ## 58. Which one is correct,and which one is wrong? Give reasons for your answers.
 
+ ## a. $\ \lim_{x \to 0}$ $\( \frac{x^2 -2x}{x^2 - sin x} \)$ = $\ \lim_{x \to 0}$ $\( \frac{2x-2}{2x-cosx}\)$ = $\ \lim_{x \to 0}$ $\( \frac{2}{2+sinx}\)$ = 
+
+ ## b. $\ \lim_{x \to 0}$ $\( \frac{x^2 -2x}{x^2 - sin x} \)$ = $\ \lim_{x \to 0}$ $\( \frac{2x-2}{2x-cosx}\)$ = 
+
+ ## 59. Only one of these calculations is correct. Which one? Why are the other things wrong? Give reasons for your answers.
+
+ 
+
 
 
 
